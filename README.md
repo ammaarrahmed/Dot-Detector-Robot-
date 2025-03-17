@@ -1,5 +1,6 @@
 # Dot-Detector-Robot-
 Vision-Guided Servo Tracking System
+https://youtu.be/oHfYfc69wVg
 This project is a computer vision-powered servo tracking system that detects circular markers (dots) on a live video feed using OpenCV, calculates their positions, and sends commands to an ESP32 microcontroller to physically track and align with the detected target. The ESP32 controls two servos that adjust angles based on the target's position.
 
 Features:
